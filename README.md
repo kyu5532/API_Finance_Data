@@ -14,7 +14,7 @@ _2019년 06월 25일 (Ver 1.0) update for Wooribank API_
 
 ##### 1.2 금융데이터조회 API 흐름도
 
-![alt text](finance.jpg)
+![image](https://user-images.githubusercontent.com/82422557/115349144-701a6b00-a1ee-11eb-8310-e3b177f4ae59.png)
 
 
 
